@@ -17,7 +17,7 @@ class DevelopmentConfig(Config):
 class TestingConfig(Config):
     """Configurations for Testing."""
     TESTING = True
-    # SQLALCHEMY_DATABASE_URI = 'postgresql://localhost/test_db'
+    MONGO_DB = 'test'
     DEBUG = True
 
 
