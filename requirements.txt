@@ -8,8 +8,6 @@ Flask-API==0.7.1
 Flask-PyMongo==0.5.1
 Flask-Script==2.0.5
 gunicorn==19.7.1
-idna==2.5
-ipython==6.1.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
 jedi==0.10.2
